@@ -8,7 +8,7 @@ setup(
     author_email='brent.tubbs@gmail.com',
     packages=find_packages(),
     include_package_data=True,
-    url='http://bits.btubbs.com/celery-schedulers',
+    url='https://bitbucket.org/btubbs/celery-schedulers',
     description='Celery scheduler backends for Redis and MongoDB',
     install_requires=[
         'six',
